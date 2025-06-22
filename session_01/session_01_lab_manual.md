@@ -3,7 +3,7 @@ layout: lab
 exclude: true
 --->
 
-# Session 01 | Lab
+# Session 01 | Manual
 
 ### Learning Objectives
 
